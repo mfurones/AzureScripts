@@ -1,0 +1,3 @@
+#TYPE Selected.Microsoft.Azure.Commands.Network.Models.PSSecurityRule
+"Name","Direction","Priority","SourceAddressPrefix","Protocol","SourcePortRange","DestinationAddressPrefix","DestinationPortRange","Access"
+"Allow-Conection","Inbound","1000","*","Tcp","*","*","3389","Allow"
